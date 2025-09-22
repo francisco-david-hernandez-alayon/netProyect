@@ -1,0 +1,15 @@
+/home/david/netProyect/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/home/david/netProyect/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/home/david/netProyect/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/home/david/netProyect/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/home/david/netProyect/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.sourcelink.json
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/home/david/netProyect/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
